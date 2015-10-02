@@ -1,7 +1,7 @@
 # Face2Emo
-###Winner of DevFest 15', Hackathon organized by Google Developer Group-Buffalo
+##Winner of DevFest 15', Hackathon organized by Google Developer Group-Buffalo
 
-Face2Emo: A revolutionary new app that converts your facial expression into the relevant emoticon.
+**Face2Emo**: A revolutionary new app that converts your facial_expression into the relevant_emoticon. </br>
 How to use it ?
 1> Build the apk from the source code.
 2> Deploy it on the Android Device (Tested for Google Nexus 5: 5.1)
